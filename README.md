@@ -5,3 +5,8 @@ Também é possivel personalizar o lembrete, por exemplo: Reunião com algum soc
 
 ## Funcionalidades
 
+- Conclusão de tarefas
+
+- Definição de prioridade das tarefas
+
+   ## Versão 1.0.0
